@@ -2,7 +2,7 @@
 In this project, we used deep neural networks and convolutional neural networks to classify traffic signs. We have trained and validated a model so that it can classify traffic sign images using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). The best accuracy obtained from our model was **97.87%** on the test set.
 
 ## Dataset
-We have used the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). The training set has 34799 traffic sign images, validation set has 4471 images and test set has 12630 images each having a dimension of 32x32x3.
+We have used the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). The training set has 34799 traffic sign images, validation set has 4471 images and test set has 12630 images each having a dimension of 32x32x3 (RGB images).
 
 ## Models
 We have trained 3 models based on the LeNet architecture:
